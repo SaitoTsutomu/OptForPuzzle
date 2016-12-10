@@ -1,6 +1,7 @@
 jupyter notebook.bat
 .ipynb_checkpoints
 __pycache__
+OptForPuzzle.ipynb
 
 # Windows image file caches
 Thumbs.db
