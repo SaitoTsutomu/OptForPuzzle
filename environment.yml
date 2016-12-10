@@ -1,5 +1,0 @@
-name: fornbex
-
-dependencies:
-  - conda-forge::jupyter_nbextensions_configurator
-  - conda-forge::jupyter_contrib_nbextensions
